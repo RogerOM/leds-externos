@@ -1,5 +1,5 @@
 {
-    "name": "leds externos digital",
+    "name": "leds externos analógico",
     "description": "",
     "dependencies": {
         "core": "*",
