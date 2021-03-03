@@ -26,6 +26,6 @@ function blue (núm: number) {
 function red (núm: number) {
     pins.digitalWritePin(DigitalPin.P0, núm)
 }
-red(0)
-green(0)
-blue(0)
+red(1)
+green(1)
+blue(1)

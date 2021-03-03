@@ -1,5 +1,5 @@
 {
-    "name": "leds ext",
+    "name": "leds externos",
     "description": "",
     "dependencies": {
         "core": "*",
