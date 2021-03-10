@@ -1,5 +1,5 @@
 {
-    "name": "leds externos analógico",
+    "name": "leds externos RGB analógico",
     "description": "",
     "dependencies": {
         "core": "*",
